@@ -1,0 +1,12 @@
+**Kokonaisvaltaisuus** (holismi) on systeemiajattelun keskeisin periaate, joka tarkoittaa kykyä tarkastella järjestelmää yhtenäisenä kokonaisuutena sen sijaan, että se yritettäisiin paloitella osiinsa. Lähteiden mukaan systeemiajattelussa siirrytään reduktiivisesta (osiin purkavasta) ajattelusta **laajentavaan ("sweeping") ajatteluun**, mikä mahdollistaa asioiden välisten vuorovaikutussuhteiden ja toistuvien mallien havaitsemisen.
+
+Systeemiajattelun perusteiden kannalta kokonaisvaltaisuus ilmenee seuraavilla tavoilla:
+
+- **Kokonaisuus on enemmän kuin osiensa summa:** Järjestelmä määritellään toisistaan riippuvaisten osien kokonaisuudeksi, joilla on yhteinen tarkoitus. Ilman osien välistä vuorovaikutusta kyseessä on vain irrallinen kokoelma osia, ei systeemi.
+- **[[Keskinäisriippuvuus]] (Interconnectedness):** Kokonaisvaltainen näkemys vaatii ymmärrystä siitä, että kaikki osat ovat riippuvaisia toisistaan ja laajemmasta järjestelmästä. Esimerkiksi ekosysteemissä yhden pienenkin osan vaurioituminen vaarantaa koko järjestelmän toiminnan.
+- **Synteesi ja emergenttiys:** Systeemiajattelija käyttää synteesiä, eli kykyä tarkastella samanaikaisesti sekä kokonaisuutta että sen osia. Tästä syntyy emergenttejä ilmiöitä – ominaisuuksia, joita kokonaisuudella on, mutta joita yksittäisillä osilla ei ole (esim. lämpötila on atomijoukon emergentti ominaisuus).
+- **Ongelmien kytkeytyneisyys:** Lähteet korostavat, että mikään ongelma ei esiinny tyhjiössä, vaan ne ovat aina osa suurempia vuorovaikutteisten verkostojen järjestelmiä.
+
+**[[Mentaalimallien]]** kontekstissa kokonaisvaltaisuus auttaa tunnistamaan ajattelumme rajoitteet. Lähteet huomauttavat, että ihmisillä on usein taipumus "spesifiin ajatteluun", jossa keskitytään yksilöihin tai yksittäisiin tapahtumiin. Systeemiajattelu sen sijaan pyrkii **holistiseen ajatteluun**, jossa asiat nähdään niiden laajemmassa asiayhteydessä ja suhteessa ympäristöönsä.
+
+Kokonaisvaltaisuuden hallitseminen vaatii systeemiäjattelijalta kykyä "katsoa laajasti" (hyödyntää perifeeristä näkökykyä) monimutkaisten syy-seuraussuhteiden havaitsemiseksi. Tämä tarkoittaa myös **jäävuorimallin** hyödyntämistä: sen sijaan, että reagoitaisiin vain pinnalla näkyviin yksittäisiin tapahtumiin, pyritään ymmärtämään niiden alla vaikuttavia syvempiä rakenteita ja mentaalimalleja, jotka ohjaavat koko järjestelmän käyttäytymistä.

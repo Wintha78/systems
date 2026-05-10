@@ -1,0 +1,11 @@
+**Keskinäisriippuvuus** (interconnectedness) on lähteiden mukaan systeemiajattelun perusta, joka mahdollistaa todellisen **kokonaisvaltaisuuden** (holismi) ymmärtämisen. Järjestelmä ei ole vain kokoelma osia, vaan se määritellään toisistaan riippuvaisten osien kokonaisuudeksi, jotka vaikuttavat toisiinsa saavuttaakseen tietyn tarkoituksen.
+
+Lähteissä keskinäisriippuvuutta käsitellään kokonaisvaltaisuuden kontekstissa seuraavasti:
+
+- **Vuorovaikutus osien välillä:** Järjestelmän ydin ei ole itse osissa, vaan niiden välisessä vuorovaikutuksessa ja riippuvuudessa. Jos osien välinen yhteys puuttuu, kyseessä on vain irrallinen joukko osia, ei järjestelmä. Esimerkiksi uuni on järjestelmä, koska sen kaikkien osien on toimittava yhdessä ruoan kypsentämiseksi.
+- **Ekosysteemi esimerkkinä:** Kokonaisvaltaisuus vaatii sen tunnustamista, että kaikki osat ovat riippuvaisia toisistaan ja laajemmasta järjestelmästä. Lähteet käyttävät esimerkkinä ekosysteemiä, joka koostuu eläimistä, kasveista, ilmasta ja vedestä: jos yksi näistä tekijöistä horjuu, koko järjestelmä vaarantuu.
+- **Synteesi ja emergenttiys:** Systeemiajattelija käyttää synteesiä, eli kykyä nähdä samanaikaisesti sekä osat että kokonaisuus. Tästä keskinäisriippuvuudesta syntyy **emergenttiys**, eli ilmiö, jossa osien vuorovaikutus tuottaa kokonaisuudelle ominaisuuksia, joita yksittäisillä osilla ei ole (kuten lämpötila, joka syntyy atomien liikkeestä).
+- **Ongelmien kytkeytyneisyys:** Kokonaisvaltainen näkökulma paljastaa, ettei mikään ongelma esiinny tyhjiössä. Kaikki haasteet ovat osa laajempaa vuorovaikutteisten verkostojen järjestelmää. Esimerkiksi "systeeminen rasismi" ei ole yksittäinen tapahtuma, vaan koko järjestelmän rakenteisiin kytkeytynyt toimintamalli.
+- **Siirtymä reduktiivisesta laajentavaan ajatteluun:** Perinteinen reduktiivinen ajattelu pyrkii pilkkomaan asiat osiin, mutta systeemiajattelu on luonteeltaan **laajentavaa ("sweeping")**. Tarkastelemalla kokonaisuutta on mahdollista havaita keskinäisiä suhteita ja toistuvia malleja, jotka jäisivät muuten huomaamatta.
+
+Kokonaisvaltaisuuden hallitseminen vaatii siis kykyä nähdä, miten yksi muutos järjestelmän osassa heijastuu muihin osiin palautekytkentöjen kautta. Kun ymmärretään nämä keskinäisriippuvuudet, voidaan siirtyä oireiden hoidosta vaikuttamaan järjestelmän syviin rakenteisiin ja mentaalimalleihin.
