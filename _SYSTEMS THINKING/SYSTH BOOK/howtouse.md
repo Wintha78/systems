@@ -8,4 +8,3 @@
 - **Keskity prosessiin, älä vain tulokseen:** Lähteiden mukaan keskittyminen itse prosessiin ja järjestelmiin lopputuloksen sijaan nopeuttaa oppimista, vähentää painetta ja tekee toiminnasta johdonmukaisempaa.
 - **Luo konkreettinen toimintasuunnitelma:** Laadi selkeä suunnitelma siitä, mitä tehdään, kuka tekee, miten se tehdään ja mitä resursseja tarvitaan, sekä aseta tavoitteille **mittarit ja määräajat**.
 
-Systeemiajattelija ymmärtää, ettei monimutkaisiin ongelmiin ole useinkaan yhtä oikeaa vastausta, vaan on olemassa useita reittejä samaan lopputulokseen. Käyttämällä **IDEA-mallia** (Tunnista, Kehitä, Toteuta, Arvioi), voit järjestelmällisesti diagnosoida ja hoitaa ongelmien juurisyitä oireiden sijaan.

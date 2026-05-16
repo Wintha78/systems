@@ -12,19 +12,19 @@ Lähdemateriaalit esittelevät useita keskeisiä ongelmanratkaisumenetelmiä ja 
 - **IDEA-malli:** Tämä nelivaiheinen malli koostuu vaiheista: **Tunnista** (Identify) ongelma, **Kehitä** (Develop) ratkaisuja, **Toteuta** (Execute) suunnitelma ja **Arvioi** (Assess) lopputulos.
 - **8-vaiheinen ongelmanratkaisu:** Strategisempi lähestymistapa sisältää ongelman määrittelyn, vaikutusten ymmärtämisen, datan keräämisen, ratkaisujen kehittämisen, testaamisen, dokumentoinnin, implementoinnin ja lopulta tehokkuuden mittaamisen
 
-**3. Tilannekohtainen käytännön ongelmanratkaisu (SPPS)** SPPS-menetelmä korostaa objektiivisuutta ja suoraa havainnointia:
+**3. [[Tilannekohtainen käytännön ongelmanratkaisu]] (SPPS)** SPPS-menetelmä korostaa objektiivisuutta ja suoraa havainnointia:
 
 - **Mene katsomaan paikan päälle:** Ongelmaa ei tule ratkaista vain kokoushuoneessa muistinvaraisesti, vaan se on nähtävä siellä, missä se tapahtuu.
 - **80/20-sääntö:** Menetelmä opettaa käyttämään 80 % ajasta ongelman todelliseen tunnistamiseen ja vain 20 % sen varsinaiseen korjaamiseen.
 - **Vastatoimenpiteet ratkaisujen sijaan:** Käytetään termiä "vastatoimenpide" (countermeasure) korostamaan, että kyse on askeleista kohti jatkuvaa parantamista, ei välttämättä lopullisesta ja täydellisestä vastauksesta.
 
-**4. Erityiset mentaalimallit ongelmanratkaisun työkaluina** Tietyt ajattelutavat auttavat murtamaan perinteisiä ajattelun esteitä:
+**4. [[Erityiset mentaalimallit ongelmanratkaisun työkaluina]]** Tietyt ajattelutavat auttavat murtamaan perinteisiä ajattelun esteitä:
 
 - **Inversio (Käänteinen ajattelu):** Sen sijaan, että mietittäisiin, miten saavutetaan tavoite, mietitäänkin, miten se epäonnistuu varmimmin, ja vältetään näitä toimintatapoja.
 - **Ensimmäiset periaatteet (First Principles):** Ongelma puretaan sen perustotuuksiin ja rakennetaan ratkaisu alusta alkaen niiden pohjalta sen sijaan, että turvauduttaisiin vain analogioihin tai menneisiin tapoihin.
 - **Toisen kertaluvun ajattelu (Second-Order Thinking):** Arvioidaan ratkaisun välittömien seurausten lisäksi myös sen pitkän aikavälin vaikutuksia kysymällä "ja sitten mitä?".
 
-**5. Luovan ja loogisen ajattelun tasapaino** Tehokas ongelmanratkaisu vaatii kahden ajattelutavan vuorottelua:
+**5. [[Luovan ja loogisen ajattelun tasapaino]]** Tehokas ongelmanratkaisu vaatii kahden ajattelutavan vuorottelua:
 
 - **Divergentti (eriytyvä) ajattelu:** Käytetään ideointivaiheessa luovuuden ja mielikuvituksen vapauttamiseen, jotta löydetään monia eri mahdollisuuksia.
 - **Konvergentti (yhtyvä) ajattelu:** Käytetään analysointivaiheessa logiikan ja faktojen avulla parhaan ratkaisun valitsemiseen ja asioiden yhdistämiseen.

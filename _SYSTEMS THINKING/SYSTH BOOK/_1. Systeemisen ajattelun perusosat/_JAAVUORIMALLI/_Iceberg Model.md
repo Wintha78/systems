@@ -1,5 +1,7 @@
 Lähdemateriaalien mukaan **Jäävuorimalli** (Iceberg Model) on keskeinen työkalu systeemiajattelun perusteiden ymmärtämisessä, sillä se auttaa siirtymään pelkästä pintatason reagoinnista syvempään analyysiin ja vaikuttavampaan ongelmanratkaisuun. Mallin ydinviesti on, että suurin osa systeemien toimintaan vaikuttavista tekijöistä on näkymättömissä "vesirajan" alapuolella.
 
+/home/lawi/obsidian/Bookshelf/Systems/notes/Mind_Architecture.pdf
+
 Jäävuorimalli koostuu neljästä tasosta, jotka tarjoavat asteittain syvempää ymmärrystä tutkittavasta kokonaisuudesta:
 
 - **[[Tapahtumat]] (Events):** Tämä on jäävuoren huippu, joka näkyy vedenpinnan yläpuolella ja edustaa yksittäisiä, usein äkillisiä tilanteita. Systeemiajattelussa pelkkä tapahtumiin keskittyminen johtaa reaktiiviseen toimintaan, jossa yritetään korjata seurauksia pureutumatta syihin.
